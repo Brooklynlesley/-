@@ -1,14 +1,14 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center" £€$£€¥ </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Brooklynlesley TechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@£€¥$£€¥techinfo">
     <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
   </a>
 </p>
